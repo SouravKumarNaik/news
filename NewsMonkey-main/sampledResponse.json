@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Andrew Jeong, Kelsey Ables, Annabelle Timsit, Adela Suliman, Miriam Berger, Niha Masih, Bryan Pietsch, Naomi Schanen, Hazem Balousha, Mohamad El Chamaa, Ben Brasch, Loveday Morris, Ruby Mellen, Cate Brown, Yasmeen Abutaleb",
+    "title": "Latest Israel-Hamas war news and hostage updates: IDF in ‘heart’ of southern Gaza’s Khan Younis - The Washington Post",
+    "description": "A State Department spokesman said the visa restrictions were implemented because Israel has not done enough to rein in settler violence in the West Bank.",
+    "url": "https://www.washingtonpost.com/world/2023/12/06/israel-hamas-war-news-gaza-palestine-update/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-06-2023/t_d6c60b8ba6d048ffabfabdc412f3e50d_name_STILL_state.jpg&w=1440",
+    "publishedAt": "2023-12-06T12:08:50Z",
+    "content": "Israeli forces pierced deeper into the Gaza Strip as part of a new phase of the war, an incursion into the enclaves south after aerial and ground attacks in the north. The Israeli army is present in … [+573 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Vladimir Soldatkin, Guy Faulconbridge",
+    "title": "Putin talks oil, Gaza and Ukraine on Middle East trip, to meet Saudi's MbS - Reuters",
+    "description": "President Vladimir Putin was escorted to the Middle East by four Russian fighter jets on Wednesday for a rare trip abroad, during which he will discuss oil production and OPEC+ with Saudi Arabia's Crown Prince Mohammed bin Salman.",
+    "url": "https://www.reuters.com/world/middle-east/putin-talk-oil-uae-saudi-meet-crown-prince-mohammed-bin-salman-2023-12-06/",
+    "urlToImage": "https://www.reuters.com/resizer/_0Rveoeyr-7XFSPxAyr7ka5dJlE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XGGTE7OXS5NMNK6WSAL7AMVULA.jpg",
+    "publishedAt": "2023-12-06T12:01:00Z",
+    "content": "MOSCOW, Dec 6 (Reuters) - President Vladimir Putin was escorted to the Middle East by four Russian fighter jets on Wednesday for a rare trip abroad, during which he will discuss oil production and OP… [+4465 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Diana Olick",
+    "title": "Mortgage refinance demand jumps 14% as rates fall to lowest point since August - CNBC",
+    "description": "After hitting 8% in October, the rate for the popular 30-year mortgage is heading back down toward 7%.",
+    "url": "https://www.cnbc.com/2023/12/06/mortgage-refinance-demand-jumps-as-rates-fall.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107290791-1692805218423-gettyimages-1603036770-US_MORTGAGE_RATES.jpeg?v=1701192750&w=1920&h=1080",
+    "publishedAt": "2023-12-06T12:00:01Z",
+    "content": "After surging over 8% in October, mortgage rates are falling back toward 7% again, and that is jump-starting the refinance market.\r\nLast week, the average contract interest rate for 30-year fixed-rat… [+2123 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Andrew Macaskill, Muvija M",
+    "title": "Former PM Boris Johnson apologises for pain and suffering during pandemic - Reuters UK",
+    "description": "Former British Prime Minister Boris Johnson said on Wednesday he was deeply sorry for the loss of life during the COVID-19 pandemic and accepted he had made mistakes, but struggled to say specifically what he could have done differently.",
+    "url": "https://www.reuters.com/world/uk/former-pm-boris-johnson-defend-record-conduct-uk-covid-inquiry-2023-12-06/",
+    "urlToImage": "https://www.reuters.com/resizer/TvqdP4sOw3iCzwjUXuVfTPLlqis=/1183x619/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CUGQ2L254FKM5EJD36GWXD34ZQ.jpg",
+    "publishedAt": "2023-12-06T11:25:00Z",
+    "content": "LONDON, Dec 6 (Reuters) - Former British Prime Minister Boris Johnson said on Wednesday he was deeply sorry for the loss of life during the COVID-19 pandemic and accepted he had made mistakes, but st… [+3589 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Hanna Ziady",
+    "title": "Europe’s leading tour company could quit the London Stock Exchange - CNN",
+    "description": "Tui, one of the world’s largest tour operators, is weighing whether to leave the London Stock Exchange in what would be another blow to the city’s standing as a global financial center.",
+    "url": "https://www.cnn.com/2023/12/06/investing/tui-london-stock-market-listing/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231206033745-01-tui-plane-120323-restricted.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-12-06T11:09:00Z",
+    "content": "Tui, one of the worlds largest tour operators, is weighing whether to leavethe London Stock Exchange in what would be another blow to the citys standing as a global financial center.\r\nThe German comp… [+2525 chars]"
+    },
+    {
+    "source": {
+    "id": "financial-times",
+    "name": "Financial Times"
+    },
+    "author": null,
+    "title": "Venezuela orders oil drilling in Guyana-run territory - Financial Times",
+    "description": "Fear rises in Georgetown as Caracas claims ‘overwhelming’ mandate for Essequibo region",
+    "url": "https://www.ft.com/content/452703dc-1843-4255-8d9a-ad1d6893d009",
+    "urlToImage": null,
+    "publishedAt": "2023-12-06T10:37:37Z",
+    "content": "Keep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert comment… [+30 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "GTA 6: Streams soar for 70s rocker Tom Petty thanks to trailer - BBC.com",
+    "description": "Tom Petty's B-side track Love Is A Long Road has seen a near 37,000% increase in streams on Spotify.",
+    "url": "https://www.bbc.com/news/newsbeat-67635381",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14DC2/production/_131924458_715d36b0-aebc-4d3b-9d0a-4b5c7c2be9bf.jpg",
+    "publishedAt": "2023-12-06T10:34:00Z",
+    "content": "Watch: What have we learnt from the GTA VI trailer?\r\nIf you're a gaming fan, you've almost definitely by now seen the long-awaited trailer for Grand Theft Auto 6.\r\nBut you might not have recognised t… [+2688 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Kyle Melnick",
+    "title": "Stanford study of identical twins showed vegan diets improved health - The Washington Post - The Washington Post",
+    "description": "Stanford University researchers assigned vegan or meat diets to sets of identical twins. The results showed a large difference in health benefits.",
+    "url": "https://www.washingtonpost.com/nation/2023/12/06/twin-diet-study-vegan-stanford/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HS4KTXRV6JBSDMNMAECQ6GSSDM_size-normalized.jpeg&w=1440",
+    "publishedAt": "2023-12-06T10:14:14Z",
+    "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nAleksandra Shai Chai needed a moment to process the idea that she would be stuck eating a vegan diet for eight weeks.\r\nShai Chai, who … [+4531 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": null,
+    "title": "'Test case' for America: Colorado's top court poised to weigh Trump's eligibility to run again - POLITICO",
+    "description": "A Wednesday argument brings the question of Trump’s eligibility under the 14th Amendment one step closer to the Supreme Court.",
+    "url": "https://www.politico.com/news/2023/12/06/colorado-supreme-court-trump-insurrection-00130271",
+    "urlToImage": "https://static.politico.com/81/d1/c6bb0b34466ba4aaac576a881841/election-2024-trump-15363.jpg",
+    "publishedAt": "2023-12-06T10:00:00Z",
+    "content": "The Colorado case, however, is on the fastest track, and the challengers there may have one of their most favorable venues: All seven justices of the Colorado Supreme Court are Democratic appointees.… [+6345 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Hollywood actors' union Sag-Aftra ratifies strike-ending contract - BBC.com",
+    "description": "The ratification formally ends the longest strike battle in Hollywood history.",
+    "url": "https://www.bbc.com/news/entertainment-arts-67613609",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C907/production/_131936415_4280563b4e2920fa7e50aae7f26a5f193634bde8.jpg",
+    "publishedAt": "2023-12-06T09:25:00Z",
+    "content": "Sag-Aftra members were on strike for 118 days against major TV and film companies.\r\nUS actors union Sag-Aftra has ratified its contract with Hollywood studios, a month after a tentative deal was agre… [+3205 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Biden says stopping Trump is motivation for second term - BBC.com",
+    "description": "The US president says he's \"not sure\" if he'd be seeking a second term were it not for Donald Trump.",
+    "url": "https://www.bbc.com/news/world-us-canada-67633706",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/147F1/production/_131935938_trumpbiden_2panel_getty.jpg",
+    "publishedAt": "2023-12-06T09:19:00Z",
+    "content": "US President Joe Biden has said part of his motivation to run for a second term next year is to prevent the return of Donald Trump.\r\n\"We cannot let him win,\" Mr Biden told reporters.\r\nIn a Fox News e… [+2601 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SamMobile"
+    },
+    "author": "SamMobile, Asif Iqbal Shaik",
+    "title": "Galaxy S23 gains December 2023 security update in the US - SamMobile - Samsung news",
+    "description": "Yesterday, Samsung revealed information about the December 2023 security update. Now, the company has released the new security update to ...",
+    "url": "https://www.sammobile.com/news/galaxy-s23-december-2023-security-update-usa/",
+    "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/10/Galaxy-S23-FE-review-13-720x405.jpg",
+    "publishedAt": "2023-12-06T07:20:00Z",
+    "content": "Yesterday, Samsung revealed information about the December 2023 security update. Now, the company has released the new security update to its current-generation flagship smartphones, the Galaxy S23, … [+1249 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "Refs stand by controversial LeBron James timeout call that helped Lakers reach In-Season Tournament semifinals - CBS Sports",
+    "description": "The Lakers were granted a timeout when they didn't seem to have possession",
+    "url": "https://www.cbssports.com/nba/news/refs-stand-by-controversial-lebron-james-timeout-call-that-helped-lakers-reach-in-season-tournament-semifinals/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/12/06/0a1064e4-ea4f-4196-a661-fef8fd216835/thumbnail/1200x675/47126716aaf3b7f2874c4ed38776344a/untitled-design33.png",
+    "publishedAt": "2023-12-06T07:08:00Z",
+    "content": "The Los Angeles Lakers are headed to Las Vegas for the In-Season Tournament semifinals after defeating the Phoenix Suns, 106-103, in Tuesday's quarterfinal matchup, but the victory was not without co… [+2651 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Katie Campione",
+    "title": "‘Dancing With The Stars’: Xochitl Gomez & Val Chmerkovskiy Discuss Their Season 32 Victory - Deadline",
+    "description": "Xochitl Gomez isn’t ready to leave the Dancing with the Stars ballroom. “I don’t want this show to end, and I think it’s gonna be really good for me to keep coming back,&#82…",
+    "url": "https://deadline.com/2023/12/dancing-with-the-stars-xochitl-gomez-val-chmerkovskiy-winners-interview-1235654320/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2023/12/170404_EM102432-400x0-copy.jpg?w=1000",
+    "publishedAt": "2023-12-06T07:00:00Z",
+    "content": "Xochitl Gomez isn’t ready to leave the Dancing with the Starsballroom.\r\n“I don’t want this show to end, and I think it’s gonna be really good for me to keep coming back,” she joked after her big win … [+3113 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New Atlas"
+    },
+    "author": "https://newatlas.com/author/michael-irving/",
+    "title": "Powerful solar storms dazzle in annual aurora photography gallery - New Atlas",
+    "description": "The Sun is approaching the most active period of the solar cycle, which is great news for aurora photographers around the world. As such, Capture the Atlas’ annual Northern Lights Photographer of the Year collection is particularly vibrant this year, showcasi…",
+    "url": "https://newatlas.com/photography/annual-aurora-northern-lights-photography-2023-gallery/",
+    "urlToImage": "https://assets.newatlas.com/dims4/default/df581c6/2147483647/strip/true/crop/1920x1008+0+136/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F47%2F86%2Ff54a90874db8b96d23e14cfdd63c%2Fisland-of-aurora-kat-lawman.jpg&na.image_optimisation=0",
+    "publishedAt": "2023-12-06T06:12:34Z",
+    "content": "The Sun is approaching the most active period of the solar cycle, which is great news for aurora photographers around the world. As such, Capture the Atlas annual Northern Lights Photographer of the … [+1655 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Beast"
+    },
+    "author": "William Vaillancourt",
+    "title": "Trump Refuses to Tell Sean Hannity That He Will Not Abuse Power if Re-Elected - The Daily Beast",
+    "description": "When asked a very simple question, Trump refused to rule out acting illegally and abusing his power.",
+    "url": "https://www.thedailybeast.com/trump-refuses-to-tell-sean-hannity-that-he-will-not-abuse-power-if-re-elected",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_354,w_629,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1701833558/Screen_Shot_2023-12-05_at_9.44.26_PM_nbpbdj",
+    "publishedAt": "2023-12-06T04:02:00Z",
+    "content": "Donald Trump, in a Fox News town hall Wednesday, did not rule out breaking the law if re-elected president.\r\nIn the quadruply indicted Republican frontrunners third Iowa town hall with Sean Hannitysi… [+2975 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WXYZ"
+    },
+    "author": "Ruta Ulcinaite",
+    "title": "Mystery dog illness starting to affect businesses as pet owners take precautions - WXYZ 7 Action News Detroit",
+    "description": "Doggy day cares, boarding businesses take financial hits due to fears surrounding mystery illness",
+    "url": "https://www.wxyz.com/news/mystery-dog-illness-starting-to-affect-businesses-as-pet-owners-take-precautions",
+    "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/60ee7e7/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fdb%2F77%2Fd71d3729444187ce8e6f75c23d06%2Fimg-6286.JPG",
+    "publishedAt": "2023-12-06T03:49:18Z",
+    "content": "TROY, Mich. (WXYZ) As the mysterious respiratory canine illness makes its way across the United States, a leading veterinarian at Michigan State University says while it's important to stay vigilant,… [+4041 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jackie Wattles",
+    "title": "Module that powered historic moon mission has returned to Earth’s orbit - CNN",
+    "description": "The module that propelled India’s moon lander toward the lunar surface is now close to home, according to the Indian Space Research Organization.",
+    "url": "https://www.cnn.com/2023/12/05/world/chandrayaan-3-lunar-lander-propulsion-module-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230904144924-cafe-mision-chandrayaan.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-12-06T03:31:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe propulsion module that powered Indias spacecraft t… [+4024 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Marqueesportsnetwork.com"
+    },
+    "author": "Andy Martinez",
+    "title": "Where things stand for Cubs on Shohei Ohtani, trade market after wild day at Winter Meetings | Chicago Cubs News - Marquee Sports Network",
+    "description": "Tuesday was a wild day of rumors and posturing at the 2023 Winter Meetings. Here's where the Cubs stand within the market.",
+    "url": "https://www.marqueesportsnetwork.com/where-things-stand-for-cubs-on-shohei-ohtani-trade-market-after-wild-day-at-winter-meetings/",
+    "urlToImage": "https://dupvhm5r1oaxt.cloudfront.net/uploads/2023/12/Jed-Hoyer-2023-WM-everybody-laughing.png",
+    "publishedAt": "2023-12-06T03:10:50Z",
+    "content": "NASHVILLE, Tenn. After over 24 hours of nary a drop of information, two hours Tuesday afternoon at the Gaylord Opryland Resort provided as much thrill and excitement as stepping on Broadway Street do… [+2862 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Li Cohen",
+    "title": "2023 is officially the hottest year ever recorded, and scientists say \"the temperature will keep rising\" - CBS News",
+    "description": "After record-breaking temperatures in November, the E.U.'s Copernicus Climate Change Service determined 2023 will officially be the hottest year humanity has experienced.",
+    "url": "https://www.cbsnews.com/news/2023-hottest-year-ever-recorded-scientists-temperatures/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/05/7302b750-d95c-41eb-847b-9141e0ed5204/thumbnail/1200x630/45b9b1c4aa9f60ebd7fec0d6df17d8cd/gettyimages-1657389394.jpg?v=170b469460f9b5b4a2670b02bb591e2d",
+    "publishedAt": "2023-12-06T03:00:00Z",
+    "content": "After months of expectation, it's official — 2023 will be the hottest year ever recorded. The European Union's Copernicus Climate Change Service announced the milestone after analyzing data that show… [+5321 chars]"
+    }
+    ]
+    }
+    
